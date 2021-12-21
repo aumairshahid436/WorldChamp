@@ -1,6 +1,6 @@
 # world champions
 
-###  `screen shots`
+###  `screenshots`
 ![champions](https://user-images.githubusercontent.com/88872799/146949596-25b079b7-9e09-4091-9118-436f0d9b04b3.png)![winners](https://user-images.githubusercontent.com/88872799/146949850-737f966a-3c7c-4c08-ae67-ff23641ff70f.png)
 To run this project. please run the following commands
 
