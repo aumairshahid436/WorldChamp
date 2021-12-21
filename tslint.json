@@ -1,0 +1,28 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended",
+        "tslint-config-standard",
+        "tslint-react",
+        "tslint-config-prettier",
+        "tslint-react-hooks"
+    ],
+    "rulesDirectory": [
+        "tslint-plugin-prettier"
+      ],
+    "rules": {
+        // "prettier": true,
+        // "max-line-length": {
+        //     "options": [120]
+        // },
+        "interface-name": false,
+        "no-consecutive-blank-lines": false,
+        // "ordered-imports": false,
+        "object-literal-sort-keys": false,
+        "member-ordering": true,
+        "jsx-no-lambda": false,
+        "jsx-boolean-value": false,
+        "react-hooks/rules-of-hooks": "error", // Checks rules of Hooks
+        "react-hooks/exhaustive-deps": "warn" // Checks effect dependencies
+    }
+}

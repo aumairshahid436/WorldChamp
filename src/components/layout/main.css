@@ -1,0 +1,6 @@
+.main {
+  background-image: url(/public/images/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 100% 350px;
+}

@@ -1,0 +1,7 @@
+.table-responsive {
+  max-height: 90vh;
+}
+
+.highlight-winner {
+  background-color: var(--bs-green);
+}
